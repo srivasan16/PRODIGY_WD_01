@@ -72,9 +72,11 @@ Create an interactive navigation menu that changes color or style when scrolled 
 
 ## 👨‍💻 Developed By
 
-**Srivasan**
+**SRIVASAN S**
 
-GitHub: https://github.com/srivasan16
+GitHub: https://github.com/srivasan16    
+
+LinkedIn: https://www.linkedin.com/in/sri-vasan-87b29126a
 
 ---
 
